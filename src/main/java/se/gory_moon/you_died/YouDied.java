@@ -9,7 +9,7 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.fml.relauncher.Side;
 
 /**
- * You Died — a Dark Souls inspired death screen.
+ * You Died, a Dark Souls inspired death screen.
  *
  * <p>1.12.2 backport of Gory_Moon's "You Died". Pure client-side: on death the vanilla
  * {@code GuiGameOver} is swapped for an animated "YOU DIED" splash that fades into the

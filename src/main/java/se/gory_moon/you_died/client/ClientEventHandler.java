@@ -16,7 +16,7 @@ import se.gory_moon.you_died.YouDied;
 
 /**
  * Swaps the vanilla death screen for the animated {@link GuiDeathSplash} and plays the
- * death sting. Uses Forge's {@link GuiOpenEvent} hook — no vanilla class is replaced or
+ * death sting. Uses Forge's {@link GuiOpenEvent} hook, no vanilla class is replaced or
  * re-registered, so this stays compatible with other mods that touch {@code GuiGameOver}.
  */
 @Mod.EventBusSubscriber(value = Side.CLIENT, modid = YouDied.MOD_ID)
