@@ -45,3 +45,12 @@ forge*changelog.txt
 Thumbs.db
 [Dd]esktop.ini
 *.lnk
+
+# Run
+*.log
+
+# IDE
+.vscode/
+
+# Internal working notes (not shipped)
+_docs/
