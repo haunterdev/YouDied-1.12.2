@@ -51,6 +51,4 @@ Thumbs.db
 
 # IDE
 .vscode/
-
-# Internal working notes (not shipped)
 _docs/
